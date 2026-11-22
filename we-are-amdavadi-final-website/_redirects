@@ -1,0 +1,3 @@
+# Cloudflare Pages redirects. Existing URLs were preserved, so none are required for launch.
+# Pages serves /about/index.html at /about/ and redirects /about.html -> /about/ automatically.
+# Format when needed:  /old-path/  /new-path/  301
