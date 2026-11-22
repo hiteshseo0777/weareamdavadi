@@ -1,5 +1,3 @@
-# Cloudflare Pages custom headers. Only the contents of this site/ folder are published.
-# Syntax reference: https://developers.cloudflare.com/pages/configuration/headers/
 
 /*
   X-Content-Type-Options: nosniff
